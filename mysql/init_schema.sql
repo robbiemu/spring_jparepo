@@ -1,0 +1,1 @@
+CREATE SCHEMA `spring_jparepo` DEFAULT CHARACTER SET utf8 ;
